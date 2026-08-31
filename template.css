@@ -25,6 +25,11 @@ font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシ�
 font-size : 100%;
 line-height : 1.7}
 
+body {
+    background : #202020;
+    color : #eeeeee;
+}
+
 hr {
   padding: 72px;
   border: 0;
@@ -90,10 +95,10 @@ line-height : 1.5} /* 24px */
 header { 
 text-align : center;
 padding-top : 24px;
-background : #ffffff}
+background : #202020}
 
 header h1 { margin-bottom : 24px}
-header h2 { color : #000000}
+header h2 { color : #eeeeee}
 
 /* @end */
 
@@ -101,7 +106,7 @@ header h2 { color : #000000}
 
 nav {
 margin-bottom : 24px;
-background-color: #000080;
+background-color: #303030;
 }
 
 nav ul { overflow : hidden}
@@ -113,7 +118,7 @@ padding : 12px 0}
 
 nav ul li a:hover {
 color : white;
-background-color : #4169e1}
+background-color : #505050}
 
 /* @end */
 
@@ -154,7 +159,7 @@ footer {
 padding : 24px 0;
 color : white;
 text-align : center;
-background-color: #000080}
+background-color: #303030}
 
 /* @end */
 
